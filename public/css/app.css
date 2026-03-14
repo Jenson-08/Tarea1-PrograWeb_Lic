@@ -1,0 +1,11 @@
+body { font-family: Arial, sans-serif; margin: 0; padding: 0; }
+
+nav { display: flex; }
+nav a { background: #29bce8; color: white; text-decoration: none; padding: 15px 0; text-align: center; flex: 1; font-weight: bold; font-size: 0.9em; }
+
+main { max-width: 900px; margin: 40px auto; padding: 0 20px; }
+
+footer { background: #29bce8; color: white; text-align: center; padding: 15px; font-weight: bold; font-size: 0.85em; margin-top: 60px; }
+
+a { color: #29bce8; }
+h1 { font-size: 2.5em; font-weight: normal; }
